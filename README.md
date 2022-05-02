@@ -1,0 +1,1 @@
+A simulation of the data subscription interface for MTN on dialing *131#
